@@ -1,4 +1,4 @@
-# Adversarial Machine Learning tutorial [26 Aug, 2021]
+# Adversarial Machine Learning tutorial 
 
 ## slides 
 - [part01](https://github.com/khalooei/adversarial-machine-learning-tutorial/blob/main/slides/khalooei_pres_day01.pdf)
@@ -12,5 +12,7 @@
 #### defense
 - [AT](https://github.com/khalooei/adversarial-machine-learning-tutorial/blob/main/sample-code/defense_adversairal_training.ipynb)
 
+<hr>
+[26-27 Aug, 2021]
 @khalooei
 @partdp
