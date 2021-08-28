@@ -1,4 +1,4 @@
-# Adversarial Machine Learning tutorial
+# Adversarial Machine Learning tutorial [26 Aug, 2021]
 
 ## slides 
 - [part01](https://github.com/khalooei/adversarial-machine-learning-tutorial/blob/main/slides/khalooei_pres_day01.pdf)
